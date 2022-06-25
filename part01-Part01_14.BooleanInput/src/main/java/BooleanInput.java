@@ -5,8 +5,10 @@ public class BooleanInput {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Write something:");
+        boolean Value = Boolean.valueOf(scanner.nextLine());
 
-        // write your program here
+        System.out.println("True or false? " + Value);
 
     }
 }

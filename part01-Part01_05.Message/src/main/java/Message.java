@@ -8,6 +8,9 @@ public class Message {
 
         System.out.println("Write a message:");
         // Write your program here
+        String name = scanner.nextLine();
+
+        System.out.println(name);
 
     }
 }
