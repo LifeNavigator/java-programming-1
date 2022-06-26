@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="741350cf-b7e7-4c27-b93f-ffd7cb4791ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_05.Message/target/classes/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_05.Message/target/classes/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_05.Message/target/test-classes/MessageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_05.Message/target/test-classes/MessageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_06.HiAdaLovelace/target/classes/HiAdaLovelace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_06.HiAdaLovelace/target/classes/HiAdaLovelace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_06.HiAdaLovelace/target/test-classes/HiAdaLovelaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_06.HiAdaLovelace/target/test-classes/HiAdaLovelaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_07.MessageThreeTimes/target/classes/MessageThreeTimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_07.MessageThreeTimes/target/classes/MessageThreeTimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_07.MessageThreeTimes/target/test-classes/MessageThreeTimesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_07.MessageThreeTimes/target/test-classes/MessageThreeTimesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_08.Greeting/target/classes/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_08.Greeting/target/classes/Greeting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_08.Greeting/target/test-classes/GreetingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_08.Greeting/target/test-classes/GreetingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_09.Conversation/target/classes/Conversation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_09.Conversation/target/classes/Conversation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_09.Conversation/target/test-classes/ConversationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_09.Conversation/target/test-classes/ConversationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_10.Story/target/classes/Story.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_10.Story/target/classes/Story.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_10.Story/target/test-classes/StoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_10.Story/target/test-classes/StoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/target/classes/IntegerInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/target/classes/IntegerInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/target/test-classes/IntegerInputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_12.IntegerInput/target/test-classes/IntegerInputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/target/classes/BooleanInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/target/classes/BooleanInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/target/test-classes/BooleanInputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_14.BooleanInput/target/test-classes/BooleanInputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/classes/DifferentTypesOfInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/classes/DifferentTypesOfInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/test-classes/DifferentTypesOfInputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/test-classes/DifferentTypesOfInputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_18.SumOfThreeNumbers/target/classes/SumOfThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_18.SumOfThreeNumbers/target/classes/SumOfThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_18.SumOfThreeNumbers/target/test-classes/SumOfThreeNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_18.SumOfThreeNumbers/target/test-classes/SumOfThreeNumbersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_22.AverageOfThreeNumbers/target/classes/AverageOfThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_22.AverageOfThreeNumbers/target/classes/AverageOfThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_22.AverageOfThreeNumbers/target/test-classes/AverageOfThreeNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_22.AverageOfThreeNumbers/target/test-classes/AverageOfThreeNumbersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_25.CheckYourIndentation/target/classes/CheckYourIndentation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_25.CheckYourIndentation/target/classes/CheckYourIndentation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_37.GiftTax/target/classes/GiftTax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_37.GiftTax/target/classes/GiftTax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_37.GiftTax/target/test-classes/GiftTaxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_37.GiftTax/target/test-classes/GiftTaxTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_06.AreWeThereYet/target/classes/AreWeThereYet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_06.AreWeThereYet/target/classes/AreWeThereYet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_06.AreWeThereYet/target/test-classes/AreWeThereYetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_06.AreWeThereYet/target/test-classes/AreWeThereYetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_08.NumberOfNumbers/target/classes/NumberOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_08.NumberOfNumbers/target/classes/NumberOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/target/classes/SumOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/target/classes/SumOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/target/test-classes/SumOfNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_10.SumOfNumbers/target/test-classes/SumOfNumbersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_12.AverageOfNumbers/target/classes/AverageOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_12.AverageOfNumbers/target/classes/AverageOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_12.AverageOfNumbers/target/test-classes/AverageOfNumbersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_12.AverageOfNumbers/target/test-classes/AverageOfNumbersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/classes/Counting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/classes/Counting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/test-classes/CountingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/test-classes/CountingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_22.Reprint/target/classes/Reprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_22.Reprint/target/classes/Reprint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/target/classes/FromOneToParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/target/classes/FromOneToParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/target/test-classes/FromOneToParameterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/target/test-classes/FromOneToParameterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_25.Division/target/classes/Division.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_25.Division/target/classes/Division.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_25.Division/target/test-classes/DivisionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_25.Division/target/test-classes/DivisionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_26.DivisibleByThree/target/classes/DivisibleByThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_26.DivisibleByThree/target/classes/DivisibleByThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_26.DivisibleByThree/target/test-classes/DivisibleByThreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_26.DivisibleByThree/target/test-classes/DivisibleByThreeTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2B73FU3nqt0bzPS6CI1WGi5CWSD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/Users/Programming/NetBeansProjects/mooc-java-programming-i/part02-Part02_31.Greatest"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="741350cf-b7e7-4c27-b93f-ffd7cb4791ab" name="Changes" comment="" />
+      <created>1656243193898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656243193898</updated>
+    </task>
+    <servers />
+  </component>
+</project>
